@@ -1,12 +1,12 @@
-#fontstyleI {
-  font-family:"Arial";
+#fontstyleone {
+  font-family: "Arial";
 }
-#fontstyleII {
+.fontstyletwo {
   font-family: "Lucida Handwriting";
 }
-#colorstyleI {
-  color:blueviolet;
+.colorstyleone {
+  color: blueviolet;
 }
-#colorstyleII {
+.colorstyletwo {
   color: goldenrod;
 }
